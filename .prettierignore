@@ -1,0 +1,16 @@
+# .prettierignore file
+
+# Ignore all JSON files
+*.json
+
+# Ignore all build artifacts
+build/
+dist/
+
+# Ignore specific files
+**/*.min.js
+*.log
+
+# Ignore specific directories
+node_modules/
+coverage/
