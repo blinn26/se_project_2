@@ -1,0 +1,12 @@
+.header {
+  background-color: #fff;
+  background-image: url(../images/background_header.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  min-height: 720px;
+  max-height: 800px;
+  height: 100vh;
+  z-index: 1;
+}
