@@ -1,8 +1,17 @@
+/* Base Styles for Page */
 .page {
   min-width: 1100px;
+  /* Minimum width for larger screens */
   max-width: 1600px;
+  /* Maximum width for larger screens */
   margin: 0 auto;
+  /* Center the page */
   font-family: "Inter", Arial, sans-serif;
+  /* Font family */
   font-size: 16px;
+  /* Base font size */
   line-height: 20px;
+  /* Base line height */
+  padding: 20px;
+  /* Default padding */
 }
